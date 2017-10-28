@@ -1,0 +1,23 @@
+{
+  "name": "flake-identity",
+  "version": "1.0.0",
+  "description": "Flake Identity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrozyme/flake-identity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrozyme/flake-identity/issues"
+  },
+  "homepage": "https://github.com/agrozyme/flake-identity#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.47"
+  },
+  "dependencies": {}
+}
