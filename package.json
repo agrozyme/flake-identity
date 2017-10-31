@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/agrozyme/flake-identity#readme",
   "devDependencies": {
-    "@types/node": "^8.0.47"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@types/node": "^8.0.47"
+  }
 }

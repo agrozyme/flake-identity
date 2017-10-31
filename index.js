@@ -76,5 +76,6 @@ class FlakeIdentity {
     }
 }
 FlakeIdentity.instance = new FlakeIdentity();
+const instance = FlakeIdentity.instance;
 // noinspection JSUnusedGlobalSymbols
-exports.default = FlakeIdentity.instance;
+exports.default = instance;
